@@ -1,0 +1,9 @@
+D:\azureprj\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.dll.config
+D:\azureprj\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.dll
+D:\azureprj\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.pdb
+D:\azureprj\C#\ContosoAdsCommon\bin\Release\EntityFramework.dll
+D:\azureprj\C#\ContosoAdsCommon\bin\Release\EntityFramework.SqlServer.dll
+D:\azureprj\C#\ContosoAdsCommon\bin\Release\EntityFramework.xml
+D:\azureprj\C#\ContosoAdsCommon\bin\Release\EntityFramework.SqlServer.xml
+D:\azureprj\C#\ContosoAdsCommon\obj\Release\ContosoAdsCommon.dll
+D:\azureprj\C#\ContosoAdsCommon\obj\Release\ContosoAdsCommon.pdb
